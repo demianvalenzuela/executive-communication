@@ -1,5 +1,6 @@
 ---
 name: executive-strategic-positioning
+license: MIT
 description: >-
   Help professionals communicate with senior leaders by turning operational updates
   into evidence-based business outcomes, strategic questions, and decision-ready

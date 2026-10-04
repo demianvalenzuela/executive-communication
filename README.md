@@ -44,7 +44,7 @@ The repository remains at [demianvalenzuela/executive-communication](https://git
 
 [Download executive-strategic-positioning.skill](executive-strategic-positioning.skill?raw=true).
 
-The `.skill` file is a ZIP archive containing the skill folder and its `SKILL.md`. For an agent that accepts skill archives, follow that agent's import instructions. If the importer requires a `.zip` extension, rename the downloaded file before importing it.
+The `.skill` file is a ZIP archive containing the skill folder, its `SKILL.md`, and the MIT license. For an agent that accepts skill archives, follow that agent's import instructions. If the importer requires a `.zip` extension, rename the downloaded file before importing it.
 
 The editable instructions are in [executive-strategic-positioning/SKILL.md](executive-strategic-positioning/SKILL.md).
 
@@ -63,3 +63,9 @@ Start with one of these requests, then provide your content and context:
 For a stronger result, include the audience, the decision you want to inform, current priorities, supporting data, and known constraints.
 
 The instructions are in English. Ask for the output in the language your audience uses.
+
+## License
+
+This skill and its documentation are available under the [MIT License](LICENSE).
+
+Copyright (c) 2026 Demian Valenzuela.

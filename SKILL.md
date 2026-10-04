@@ -1,5 +1,6 @@
 ---
 name: executive-communication
+license: MIT
 description: >-
   Prepare executive presentations, strategic meeting questions, and evidence-based
   recommendations using SCAR: Safe, Credible, Actionable, Rewire. Use when rewriting
