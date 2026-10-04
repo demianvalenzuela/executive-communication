@@ -1,6 +1,6 @@
-# Executive strategic positioning
+# Executive Communication & Strategic Thinking Skill
 
-An AI skill for preparing executive presentations, asking strategic questions, and connecting your work to business priorities. It uses the SCAR framework: Safe, Credible, Actionable, Rewire.
+Turn operational updates into clear recommendations, ask better strategic questions, and connect your work to business priorities with SCAR.
 
 Use it to:
 
